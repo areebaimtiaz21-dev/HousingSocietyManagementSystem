@@ -1,0 +1,594 @@
+City Housing Management System Started
+
+
+--- Adding a New Society ---
+Society 'DHA Phase 6' added successfully!
+
+--- Booking Plots ---
+Society found: LDA Avenue 1
+Block found successfully: A
+Plot booked successfully!
+Society found: LDA Avenue 2
+Block found successfully: B
+Plot booked successfully!
+
+--- Cancelling a Booking ---
+Society found: LDA Avenue 1
+Block found successfully: A
+Plot Booking cancelled successfully
+
+--- Computing City Totals ---
+
+CITY TOTALS (All Societies Combined):
+Society Summary Report: LDA Avenue 1
+Total Plots: 180
+Available Plots: 180
+Booked Plots: 0
+Society Summary Report: LDA Avenue 2
+Total Plots: 180
+Available Plots: 179
+Booked Plots: 1
+Society Summary Report: DHA Phase 6
+Total Plots: 114
+Available Plots: 114
+Booked Plots: 0
+
+--- Removing a Society ---
+Society 'DHA Phase 6' removed successfully!
+
+--- Final City Report ---
+
+------------- COMPLETE CITY REPORT ------------
+
+----------------- SOCIETY REPORT ------------------
+
+Block: A | Total Plots: 60 | Available: 60
+---------------------------------------------------------
+Street Layout (A = Available, X = Booked):
+Street 1: A A A A A A A A A A 
+Street 2: A A A A A A A A A A A 
+Street 3: A A A A A A A A A A A A 
+Street 4: A A A A A A A A A A A A A 
+Street 5: A A A A A A A A A A A A A A 
+
+Plot Details:
+ID: 1-001, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-002, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-003, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-004, Type: RES_5_MARLA, Area: 100.0Price without Premium:4000000Price with Premium: 4320000.0 PKR, Available: true
+ID: 1-005, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 1-006, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-007, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-008, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-009, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-010, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-001, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-002, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-003, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-004, Type: RES_10_MARLA, Area: 300.0Price without Premium:7500000Price with Premium: 8100000.0 PKR, Available: true
+ID: 2-005, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-006, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-007, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-008, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-009, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-010, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-011, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 3-001, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-002, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-003, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-004, Type: RES_1_KANAL, Area: 0.0Price without Premium:14000000Price with Premium: 1.512E7 PKR, Available: true
+ID: 3-005, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-006, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-007, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-008, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-009, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-010, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-011, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-012, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 4-001, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-002, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-003, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-004, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-005, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-006, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-007, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-008, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-009, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-010, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-011, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-012, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-013, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 5-001, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-002, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-003, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-004, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-005, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-006, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-007, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-008, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-009, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-010, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-011, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-012, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-013, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-014, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+
+Amenities:
+Park Shape: RECTANGLE | Area: 600.00
+Commercial Market Shops:
+ID: S-001, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-002, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-003, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-004, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-005, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-006, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-007, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-008, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-009, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-010, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-011, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-012, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-013, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-014, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-015, Type: COMM_SHOP, Price: 3000000.00 PKR
+-------------------------------------------
+
+Block: B | Total Plots: 60 | Available: 60
+---------------------------------------------------------
+Street Layout (A = Available, X = Booked):
+Street 1: A A A A A A A A A A 
+Street 2: A A A A A A A A A A A 
+Street 3: A A A A A A A A A A A A 
+Street 4: A A A A A A A A A A A A A 
+Street 5: A A A A A A A A A A A A A A 
+
+Plot Details:
+ID: 1-001, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-002, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-003, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-004, Type: RES_5_MARLA, Area: 100.0Price without Premium:4000000Price with Premium: 4320000.0 PKR, Available: true
+ID: 1-005, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 1-006, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-007, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-008, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-009, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-010, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-001, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-002, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-003, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-004, Type: RES_10_MARLA, Area: 300.0Price without Premium:7500000Price with Premium: 8100000.0 PKR, Available: true
+ID: 2-005, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-006, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-007, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-008, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-009, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-010, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-011, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 3-001, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-002, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-003, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-004, Type: RES_1_KANAL, Area: 0.0Price without Premium:14000000Price with Premium: 1.512E7 PKR, Available: true
+ID: 3-005, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-006, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-007, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-008, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-009, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-010, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-011, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-012, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 4-001, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-002, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-003, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-004, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-005, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-006, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-007, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-008, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-009, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-010, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-011, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-012, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-013, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 5-001, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-002, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-003, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-004, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-005, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-006, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-007, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-008, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-009, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-010, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-011, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-012, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-013, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-014, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+
+Amenities:
+Park Shape: RECTANGLE | Area: 600.00
+Commercial Market Shops:
+ID: S-001, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-002, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-003, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-004, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-005, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-006, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-007, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-008, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-009, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-010, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-011, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-012, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-013, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-014, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-015, Type: COMM_SHOP, Price: 3000000.00 PKR
+-------------------------------------------
+
+Block: C | Total Plots: 60 | Available: 60
+---------------------------------------------------------
+Street Layout (A = Available, X = Booked):
+Street 1: A A A A A A A A A A 
+Street 2: A A A A A A A A A A A 
+Street 3: A A A A A A A A A A A A 
+Street 4: A A A A A A A A A A A A A 
+Street 5: A A A A A A A A A A A A A A 
+
+Plot Details:
+ID: 1-001, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-002, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-003, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-004, Type: RES_5_MARLA, Area: 100.0Price without Premium:4000000Price with Premium: 4320000.0 PKR, Available: true
+ID: 1-005, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 1-006, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-007, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-008, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-009, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-010, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-001, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-002, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-003, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-004, Type: RES_10_MARLA, Area: 300.0Price without Premium:7500000Price with Premium: 8100000.0 PKR, Available: true
+ID: 2-005, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-006, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-007, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-008, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-009, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-010, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-011, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 3-001, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-002, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-003, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-004, Type: RES_1_KANAL, Area: 0.0Price without Premium:14000000Price with Premium: 1.512E7 PKR, Available: true
+ID: 3-005, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-006, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-007, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-008, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-009, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-010, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-011, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-012, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 4-001, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-002, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-003, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-004, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-005, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-006, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-007, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-008, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-009, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-010, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-011, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-012, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-013, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 5-001, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-002, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-003, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-004, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-005, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-006, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-007, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-008, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-009, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-010, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-011, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-012, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-013, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-014, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+
+Amenities:
+Park Shape: RECTANGLE | Area: 600.00
+Commercial Market Shops:
+ID: S-001, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-002, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-003, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-004, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-005, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-006, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-007, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-008, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-009, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-010, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-011, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-012, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-013, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-014, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-015, Type: COMM_SHOP, Price: 3000000.00 PKR
+-------------------------------------------
+
+----------------- SOCIETY REPORT ------------------
+
+Block: A | Total Plots: 60 | Available: 60
+---------------------------------------------------------
+Street Layout (A = Available, X = Booked):
+Street 1: A A A A A A A A A A 
+Street 2: A A A A A A A A A A A 
+Street 3: A A A A A A A A A A A A 
+Street 4: A A A A A A A A A A A A A 
+Street 5: A A A A A A A A A A A A A A 
+
+Plot Details:
+ID: 1-001, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-002, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-003, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-004, Type: RES_5_MARLA, Area: 100.0Price without Premium:4000000Price with Premium: 4320000.0 PKR, Available: true
+ID: 1-005, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 1-006, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-007, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-008, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-009, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-010, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-001, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-002, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-003, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-004, Type: RES_10_MARLA, Area: 300.0Price without Premium:7500000Price with Premium: 8100000.0 PKR, Available: true
+ID: 2-005, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-006, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-007, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-008, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-009, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-010, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-011, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 3-001, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-002, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-003, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-004, Type: RES_1_KANAL, Area: 0.0Price without Premium:14000000Price with Premium: 1.512E7 PKR, Available: true
+ID: 3-005, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-006, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-007, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-008, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-009, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-010, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-011, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-012, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 4-001, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-002, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-003, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-004, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-005, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-006, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-007, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-008, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-009, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-010, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-011, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-012, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-013, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 5-001, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-002, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-003, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-004, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-005, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-006, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-007, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-008, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-009, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-010, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-011, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-012, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-013, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-014, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+
+Amenities:
+Park Shape: RECTANGLE | Area: 600.00
+Commercial Market Shops:
+ID: S-001, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-002, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-003, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-004, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-005, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-006, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-007, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-008, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-009, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-010, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-011, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-012, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-013, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-014, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-015, Type: COMM_SHOP, Price: 3000000.00 PKR
+-------------------------------------------
+
+Block: B | Total Plots: 60 | Available: 59
+---------------------------------------------------------
+Street Layout (A = Available, X = Booked):
+Street 1: A A A A A A A A A A 
+Street 2: A A A A X A A A A A A 
+Street 3: A A A A A A A A A A A A 
+Street 4: A A A A A A A A A A A A A 
+Street 5: A A A A A A A A A A A A A A 
+
+Plot Details:
+ID: 1-001, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-002, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-003, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-004, Type: RES_5_MARLA, Area: 100.0Price without Premium:4000000Price with Premium: 4320000.0 PKR, Available: true
+ID: 1-005, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 1-006, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-007, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-008, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-009, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-010, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-001, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-002, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-003, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-004, Type: RES_10_MARLA, Area: 300.0Price without Premium:7500000Price with Premium: 8100000.0 PKR, Available: true
+ID: 2-005, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: false
+ID: 2-006, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-007, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-008, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-009, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-010, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-011, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 3-001, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-002, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-003, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-004, Type: RES_1_KANAL, Area: 0.0Price without Premium:14000000Price with Premium: 1.512E7 PKR, Available: true
+ID: 3-005, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-006, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-007, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-008, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-009, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-010, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-011, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-012, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 4-001, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-002, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-003, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-004, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-005, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-006, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-007, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-008, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-009, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-010, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-011, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-012, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-013, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 5-001, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-002, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-003, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-004, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-005, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-006, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-007, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-008, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-009, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-010, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-011, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-012, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-013, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-014, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+
+Amenities:
+Park Shape: RECTANGLE | Area: 600.00
+Commercial Market Shops:
+ID: S-001, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-002, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-003, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-004, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-005, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-006, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-007, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-008, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-009, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-010, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-011, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-012, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-013, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-014, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-015, Type: COMM_SHOP, Price: 3000000.00 PKR
+-------------------------------------------
+
+Block: C | Total Plots: 60 | Available: 60
+---------------------------------------------------------
+Street Layout (A = Available, X = Booked):
+Street 1: A A A A A A A A A A 
+Street 2: A A A A A A A A A A A 
+Street 3: A A A A A A A A A A A A 
+Street 4: A A A A A A A A A A A A A 
+Street 5: A A A A A A A A A A A A A A 
+
+Plot Details:
+ID: 1-001, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-002, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-003, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-004, Type: RES_5_MARLA, Area: 100.0Price without Premium:4000000Price with Premium: 4320000.0 PKR, Available: true
+ID: 1-005, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 1-006, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-007, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-008, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-009, Type: RES_5_MARLA, Area: 200.00 sq units, Price: 4000000 PKR, Availability: true
+ID: 1-010, Type: PARKING, Area: 200.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-001, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-002, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-003, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-004, Type: RES_10_MARLA, Area: 300.0Price without Premium:7500000Price with Premium: 8100000.0 PKR, Available: true
+ID: 2-005, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-006, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-007, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-008, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-009, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 2-010, Type: PARKING, Area: 600.00 sq units, Price: 200000 PKR, Availability: true
+ID: 2-011, Type: RES_10_MARLA, Area: 600.00 sq units, Price: 7500000 PKR, Availability: true
+ID: 3-001, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-002, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-003, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-004, Type: RES_1_KANAL, Area: 0.0Price without Premium:14000000Price with Premium: 1.512E7 PKR, Available: true
+ID: 3-005, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-006, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-007, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-008, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-009, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-010, Type: PARKING, Area: 800.00 sq units, Price: 200000 PKR, Availability: true
+ID: 3-011, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 3-012, Type: RES_1_KANAL, Area: 800.00 sq units, Price: 14000000 PKR, Availability: true
+ID: 4-001, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-002, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-003, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-004, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-005, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-006, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-007, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-008, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-009, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-010, Type: PARKING, Area: 400.00 sq units, Price: 200000 PKR, Availability: true
+ID: 4-011, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-012, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 4-013, Type: COMM_SHOP, Area: 400.00 sq units, Price: 3000000 PKR, Availability: true
+ID: 5-001, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-002, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-003, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-004, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-005, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-006, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-007, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-008, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-009, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-010, Type: PARKING, Area: 625.00 sq units, Price: 200000 PKR, Availability: true
+ID: 5-011, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-012, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-013, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+ID: 5-014, Type: COMM_OFFICE, Area: 625.00 sq units, Price: 5000000 PKR, Availability: true
+
+Amenities:
+Park Shape: RECTANGLE | Area: 600.00
+Commercial Market Shops:
+ID: S-001, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-002, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-003, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-004, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-005, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-006, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-007, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-008, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-009, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-010, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-011, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-012, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-013, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-014, Type: COMM_SHOP, Price: 3000000.00 PKR
+ID: S-015, Type: COMM_SHOP, Price: 3000000.00 PKR
+-------------------------------------------
+--------------------------------------------------
+
+Program finished successfully!
